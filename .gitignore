@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment Secrets
+.env
+
+# Data Directory (Local RAG storage)
+data/
+chroma_db/
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+
+# Agent artifacts
+.gemini/

@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+mcp
+openai
+python-docx
+-e ./mcp-atlassian-main
+chromadb
